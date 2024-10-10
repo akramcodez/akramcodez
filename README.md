@@ -1,7 +1,5 @@
 <h1 align="center">
-  <span style="background: linear-gradient(to right, #30CFD0, #330867); -webkit-background-clip: text; color: transparent; animation: gradient-animation 3s ease infinite;">
-    Hi there 👋, I'm SK Akram
-  </span>
+  Hi there 👋, I'm <span style="color: #30CFD0;">SK Akram</span>
 </h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
@@ -34,16 +32,16 @@
 <h3>🌐 Let's Connect</h3>
 <p align="left">
   <a href="https://twitter.com/akramcodez" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akramcodez" height="30" width="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akramcodez" height="40" width="40" style="margin: 10px;" />
   </a>
   <a href="https://www.linkedin.com/in/sk-akram-aaa903318/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akramcodez" height="30" width="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akramcodez" height="40" width="40" style="margin: 10px;" />
   </a>
   <a href="https://instagram.com/akramcodez" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akramcodez" height="30" width="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akramcodez" height="40" width="40" style="margin: 10px;" />
   </a>
   <a href="https://www.youtube.com/@Akramcodez" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akramcodez" height="30" width="40" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akramcodez" height="40" width="40" style="margin: 10px;" />
   </a>
 </p>
 
@@ -85,11 +83,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-<style>
-@keyframes gradient-animation {
-  0% {background-position: 0% 50%;}
-  50% {background-position: 100% 50%;}
-  100% {background-position: 0% 50%;}
-}
-</style>
