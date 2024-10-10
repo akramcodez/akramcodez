@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akramcodez&label=Profile%20views&color=blue&style=flat-square" alt="akramcodez" />
   <a href="https://twitter.com/akramcodez" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/akramcodez?logo=twitter&style=flat-square" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/follow/akramcodez?logo=twitter&style=flat-square&color=1DA1F2" alt="Twitter" />
   </a>
 </p>
 
@@ -30,16 +30,16 @@
 <h3>🌐 Let's Connect</h3>
 <p align="center">
   <a href="https://twitter.com/akramcodez" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/akramcodez" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/akramcodez" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/c/akramcodez" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="30" width="40" />
   </a>
 </p>
 
