@@ -28,7 +28,7 @@
 ---
 
 <h3>🌐 Let's Connect</h3>
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/akramcodez" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akramcodez" height="30" width="40" style="margin: 10px;" />
   </a>
@@ -48,7 +48,7 @@
 ---
 
 <h3>💻 Skills & Tools</h3>
-<p align="center"> 
+<p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin: 10px;" /> 
   </a> 
