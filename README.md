@@ -30,16 +30,16 @@
 <h3>🌐 Let's Connect</h3>
 <p align="center">
   <a href="https://twitter.com/akramcodez" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/akramcodez" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/akramcodez" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/c/akramcodez" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" alt="YouTube" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
 
