@@ -1,6 +1,4 @@
-<h1 align="center">
-  Hi there 👋, I'm <span style="color: #30CFD0;">SK Akram</span>
-</h1>
+<h1 align="center">Hi there 👋, I'm SK Akram</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
 <p align="center">
@@ -14,9 +12,9 @@
 
 <h3>👨‍💻 About Me</h3>
 
-- 🌱 Currently mastering **Back-end Development**  
-- 🔗 Open to collaborate on **Front-end projects**  
-- 📧 Reach me at: **skcodewizard786@gmail.com**
+- 🌱 Currently mastering *Back-end Development*  
+- 🔗 Open to collaborate on *Front-end projects*  
+- 📧 Reach me at: *skcodewizard786@gmail.com*
 
 ---
 
@@ -31,18 +29,11 @@
 
 <h3>🌐 Let's Connect</h3>
 <p align="left">
-  <a href="https://twitter.com/akramcodez" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akramcodez" height="40" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/sk-akram-aaa903318/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akramcodez" height="40" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://instagram.com/akramcodez" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akramcodez" height="40" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://www.youtube.com/@Akramcodez" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akramcodez" height="40" width="40" style="margin: 10px;" />
-  </a>
+<a href="https://twitter.com/akramcodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akramcodez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sk-akram-aaa903318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akramcodez" height="30" width="40" /></a>
+<a href="https://instagram.com/akramcodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akramcodez" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Akramcodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akramcodez" height="30" width="40" /></a>
+</p>
 </p>
 
 ---
@@ -68,6 +59,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 10px;" /> 
   </a> 
 </p>
+
 
 ---
 
