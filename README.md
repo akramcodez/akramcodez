@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akramcodez&label=Profile%20views&color=blue&style=flat-square" alt="akramcodez" />
   <a href="https://twitter.com/akramcodez" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/akramcodez?label=Follow&style=social" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/follow/akramcodez?logo=twitter&style=flat-square&color=1DA1F2" alt="Twitter" />
   </a>
 </p>
 
@@ -27,20 +27,12 @@
 
 ---
 
-<h3>🌐 Let's Connect</h3>
-<p align="center">
-  <a href="https://twitter.com/akramcodez" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/akramcodez" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/akramcodez" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/akramcodez" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="30" width="40" />
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/akramcodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akramcodez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akramcodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akramcodez" height="30" width="40" /></a>
+<a href="https://instagram.com/akramcodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akramcodez" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/akramcodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akramcodez" height="30" width="40" /></a>
 </p>
 
 ---
