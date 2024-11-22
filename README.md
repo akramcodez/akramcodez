@@ -72,7 +72,7 @@
 ---
 
 <h3 align="center">My GitHub Stats:</h3>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px; gap: 10px;">
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10; gap: 10;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=radical" 
        alt="Top Languages" 
        style="width: 48%;" />
