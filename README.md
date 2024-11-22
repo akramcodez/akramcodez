@@ -78,7 +78,7 @@
        style="width: 45%;" />
   <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=radical" 
        alt="GitHub Stats" 
-       style="width: 45%;" />
+       style="width: 45%; margin-left: 10px;" />
 </div>
 </p> 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&theme=radical" alt="akramcodez" /></p>
