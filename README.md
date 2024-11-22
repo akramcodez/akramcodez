@@ -85,11 +85,8 @@
 </table>
 
 
-<table align="center" style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="text-align: center; width: 50%; padding: 20px;">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&theme=radical" alt="akramcodez" style="max-width: 100%; border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&theme=radical" alt="akramcodez" style="max-width: 100%; border-radius: 10px;" />
+</p>
+      
 
