@@ -11,7 +11,7 @@
       </p>
     </td>
     <td align="center" style="border: none;">
-      <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif?cid=790b7611ow92j7469ykpu0lzq8cipqqxw4fpwn5h0dxn7mlc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Developer Working" width="250" />
+      <img src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" alt="Developer Working" width="400" />
     </td>
   </tr>
 </table>
