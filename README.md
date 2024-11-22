@@ -1,6 +1,6 @@
 # 👋 Hello, I'm SK Akram
 
-[Developer Working](https://media.giphy.com/media/26gsdIv7yCQGG8dbC/giphy.gif)
+![Developer Working](https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif?cid=790b7611ow92j7469ykpu0lzq8cipqqxw4fpwn5h0dxn7mlc&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### 🌍 Web Developer | Back-End Specialist | Open-Source Contributor  
 📍 Based in India | ✉️ Contact: [skcodewizard786@gmail.com](mailto:skcodewizard786@gmail.com)
@@ -88,3 +88,4 @@ A full-stack app using MongoDB, Express.js, React, and Node.js for real-time dat
 Feel free to reach out via email or social media if you’d like to collaborate on exciting projects. Let's build something awesome together!
 
 ---
+
