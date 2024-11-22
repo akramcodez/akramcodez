@@ -41,15 +41,6 @@ I am currently focused on mastering back-end technologies, building full-stack a
 
 ---
 
-<h3>🎬 Check Out My Work</h3>
-<p align="center">
-  <a href="https://www.youtube.com/@Akramcodez" target="_blank">
-    <img src="https://img.shields.io/badge/Watch%20My%20Videos-red?style=for-the-badge&logo=youtube" alt="YouTube Channel" />
-  </a>
-</p>
-
----
-
 <h3>🌐 Let's Connect</h3>
 <p align="left">
   <a href="https://twitter.com/akramcodez" target="blank">
