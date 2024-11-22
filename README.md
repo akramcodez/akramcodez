@@ -1,6 +1,6 @@
 # 👋 Hello, I'm SK Akram
 
-![Developer Working](https://media.giphy.com/media/26gsdIv7yCQGG8dbC/giphy.gif)
+[Developer Working](https://media.giphy.com/media/26gsdIv7yCQGG8dbC/giphy.gif)
 
 ### 🌍 Web Developer | Back-End Specialist | Open-Source Contributor  
 📍 Based in India | ✉️ Contact: [skcodewizard786@gmail.com](mailto:skcodewizard786@gmail.com)
@@ -9,8 +9,8 @@
 
 ### 🚀 What I’m Currently Working On:
 
-| 🛠️ **Technologies**              | ⚡ **Mastering**               |
-|----------------------------------|-------------------------------|
+| **Technologies**   | **Mastering**   |
+|--------------------|-----------------|
 | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) | ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) |
 | ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) | ![GraphQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg) |
 | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) | ![WebSockets](https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg) |
@@ -20,12 +20,12 @@
 
 ### 📚 Tech Stack & Tools
 
-| **Back-End** | **Front-End** | **DevOps** |
-|--------------|---------------|------------|
+| **Back-End**                             | **Front-End**                                | **DevOps**                                 |
+|------------------------------------------|----------------------------------------------|--------------------------------------------|
 | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) | ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) |
 | ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) | ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg) | ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg) |
 | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) | ![EJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg) | ![CI/CD](https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg) |
-| ![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg) |  |  |
+| ![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg) |                                              |                                            |
 
 ---
 
@@ -74,12 +74,12 @@ I enjoy solving coding challenges, contributing to open-source, and learning new
 #### **Animalgram**  
 A responsive animal profile page demo with features like browsing, searching, and interacting with animal profiles (Node.js, Express.js, EJS, MongoDB).
 
-![Animalgram](https://media.giphy.com/media/3o6nV5JVoOwti9G4fa/giphy.gif)
+![Animalgram](https://media.giphy.com/media/5xaOcL0K6g1dHpbwV2/giphy.gif)
 
 #### **MERN App**  
 A full-stack app using MongoDB, Express.js, React, and Node.js for real-time data handling and user interaction.
 
-![MERN App](https://media.giphy.com/media/5xaOcL0K6g1dHpbwV2/giphy.gif)
+![MERN App](https://media.giphy.com/media/3o6nV5JVoOwti9G4fa/giphy.gif)
 
 ---
 
@@ -88,4 +88,3 @@ A full-stack app using MongoDB, Express.js, React, and Node.js for real-time dat
 Feel free to reach out via email or social media if you’d like to collaborate on exciting projects. Let's build something awesome together!
 
 ---
-
