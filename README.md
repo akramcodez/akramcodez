@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SK Akram</h1>  
-<h3 align="center">Full Stack Developer in Progress 💻 <img src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="profile views" /></h3>  
+<h3 align="center">Full Stack Developer in Progress 💻 <img style="margin-top: 10px"  src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="profile views" /></h3>  
 
 <table align="center" style="border-collapse: collapse;">
   <tr>
