@@ -85,5 +85,7 @@
 </table>
 
 <p align="center">
+  <tr>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&theme=radical" alt="akramcodez" style="max-width: 100%; border-radius: 10px;" />
+  </tr>
 </p>
