@@ -67,10 +67,10 @@
 
 <h3 align="center">My GitHub Stats:</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akramcodez&show_icons=true&locale=en&layout=compact" alt="akramcodez" />
 </p>
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&locale=en" alt="akramcodez" />
 </p>
 <p align="center">
