@@ -75,11 +75,9 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=radical" 
-       alt="akramcodez" 
-       style="width: 48%; height: 30%; margin-right: 2%;" />
+       alt="akramcodez"  />
   <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=radical" 
-       alt="akramcodez" 
-       style="width: 48%; height: 30%; margin-left: 2%;" />
+       alt="akramcodez" />
 </div>
 
 <p align="center">
