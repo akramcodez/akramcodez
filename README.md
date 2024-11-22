@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm SK Akram</h1>  
 <h3 align="center">Full Stack Developer in Progress 💻</h3>  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif?cid=790b7611ow92j7469ykpu0lzq8cipqqxw4fpwn5h0dxn7mlc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Developer Working" />
-</p>
-
-<p align="center">
-  🔭 I’m currently working on <a href="https://github.com/akramcodez/Anigram">Anigram</a><br>
-  🌱 I’m currently learning <strong>Back-end development</strong><br>
-  📫 How to reach me: <strong>skcodewizard786@gmail.com</strong>
-</p>
+<table align="center">
+  <tr>
+    <td align="left">
+      <p>
+        🔭 I’m currently working on <a href="https://github.com/akramcodez/Anigram">Anigram</a><br>
+        🌱 I’m currently learning <strong>Back-end development</strong><br>
+        📫 How to reach me: <strong>skcodewizard786@gmail.com</strong>
+      </p>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif?cid=790b7611ow92j7469ykpu0lzq8cipqqxw4fpwn5h0dxn7mlc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Developer Working" />
+    </td>
+  </tr>
+</table>
 
 ---
 
