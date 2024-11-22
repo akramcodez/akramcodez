@@ -43,7 +43,7 @@
   </tr>
   <tr>
      <td align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/><br>Express.js
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/><br>Express.js
     </td>
      <td align="center" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><br>MySQL
