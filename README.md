@@ -73,22 +73,7 @@
 
 <h3 align="center">My GitHub Stats:</h3>
 
-<!-- First row with two images -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=radical" 
-       alt="Top Languages" 
-       style="flex: 1; max-width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=radical" 
-       alt="GitHub Stats" 
-       style="flex: 1; max-width: 48%;" />
-</div>
-
-<!-- Second row with a single centered image -->
-<p align="center" style="margin-top: 30px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&theme=radical" 
-       alt="Streak Stats" 
-       style="width: 60%;" />
-</p>
+<h3 align="center">My GitHub Stats:</h3>  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=radical" alt="akramcodez" /></p>  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=radical" alt="akramcodez" /></p>  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&theme=radical" alt="akramcodez" /></p>
 
 
 
