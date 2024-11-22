@@ -70,7 +70,7 @@
 <table align="center" style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="text-align: center; width: 50%; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akramcodez&show_icons=true&locale=en&layout=compact" alt="akramcodez" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=radical" alt="akramcodez" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;" />
     </td>
     <td style="text-align: center; width: 50%; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&locale=en" alt="akramcodez" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;" />
