@@ -74,12 +74,16 @@
 <h3 align="center">My GitHub Stats:</h3>
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=radical" alt="akramcodez" style="flex: 1; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=radical" alt="akramcodez" style="flex: 1; margin-left: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=radical" 
+       alt="akramcodez" 
+       style="width: 48%; height: auto; margin-right: 2%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=radical" 
+       alt="akramcodez" 
+       style="width: 48%; height: auto; margin-left: 2%;" />
 </div>
 
-<p align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&theme=radical" alt="akramcodez" />
+<p align="center">
+  <img style="margin-top: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&theme=radical" alt="akramcodez" />
 </p>
 
 
