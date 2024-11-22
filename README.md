@@ -40,11 +40,11 @@
     <td align="center" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><br>Node.js
     </td>
-    <td align="center" style="border: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40"/><br>Express.js
-    </td>
   </tr>
   <tr>
+     <td align="center" style="border: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40"/><br>Express.js
+    </td>
      <td align="center" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><br>MySQL
     </td>
