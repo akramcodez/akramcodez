@@ -20,38 +20,38 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<table align="center" style="border-collapse: collapse;">
+<table align="center" style="border-collapse: collapse; background-color: #f4f4f4; border-radius: 8px; padding: 10px;">
   <tr>
-    <td align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="filter: hue-rotate(90deg);" /><br>Bootstrap
+    <td align="center" style="border: none; background-color: #ffffff; padding: 15px; border-radius: 8px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /><br>Bootstrap
     </td>
-    <td align="center" style="border: none;">
+    <td align="center" style="border: none; background-color: #ffffff; padding: 15px; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><br>C
     </td>
-    <td align="center" style="border: none;">
+    <td align="center" style="border: none; background-color: #ffffff; padding: 15px; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><br>CSS
     </td>
-    <td align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="filter: invert(50%) sepia(1) saturate(10) hue-rotate(200deg);" /><br>Express.js
+    <td align="center" style="border: none; background-color: #ffffff; padding: 15px; border-radius: 8px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /><br>Express.js
     </td>
-    <td align="center" style="border: none;">
+    <td align="center" style="border: none; background-color: #ffffff; padding: 15px; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><br>HTML5
     </td>
   </tr>
   <tr>
-    <td align="center" style="border: none;">
+    <td align="center" style="border: none; background-color: #ffffff; padding: 15px; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><br>Java
     </td>
-    <td align="center" style="border: none;">
+    <td align="center" style="border: none; background-color: #ffffff; padding: 15px; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><br>JavaScript
     </td>
-    <td align="center" style="border: none;">
+    <td align="center" style="border: none; background-color: #ffffff; padding: 15px; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><br>MongoDB
     </td>
-    <td align="center" style="border: none;">
+    <td align="center" style="border: none; background-color: #ffffff; padding: 15px; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><br>MySQL
     </td>
-    <td align="center" style="border: none;">
+    <td align="center" style="border: none; background-color: #ffffff; padding: 15px; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><br>Node.js
     </td>
   </tr>
