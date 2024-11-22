@@ -77,11 +77,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=radical" 
        alt="akramcodez" 
        style="width: 48%; height: auto; margin-right: 2%;" />
-  </p>
-  <p>
     <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=radical" 
        alt="akramcodez" 
-       style="width: 48%; height: auto; margin-left: 2%;" />
+       style="width: 48%; height: auto; margin-left: 10%;" />
   </p>
 </div>
 </p> 
