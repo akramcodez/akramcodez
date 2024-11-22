@@ -67,14 +67,16 @@
 
 <h3 align="center">My GitHub Stats:</h3>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <div style="flex: 1; max-width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akramcodez&show_icons=true&locale=en&layout=compact" alt="akramcodez" style="width: 100%; border-radius: 10px;" />
-  </div>
-  <div style="flex: 1; max-width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&locale=en" alt="akramcodez" style="width: 100%; border-radius: 10px;" />
-  </div>
-</div>
+<table align="center" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="text-align: center; width: 50%; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akramcodez&show_icons=true&locale=en&layout=compact" alt="akramcodez" style="max-width: 100%; border-radius: 10px;" />
+    </td>
+    <td style="text-align: center; width: 50%; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&locale=en" alt="akramcodez" style="max-width: 100%; border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&" alt="akramcodez" style="max-width: 100%; border-radius: 10px;" />
