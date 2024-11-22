@@ -72,8 +72,16 @@
 ---
 
 <h3 align="center">My GitHub Stats:</h3>
-
-<h3 align="center">My GitHub Stats:</h3>  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=radical" alt="akramcodez" /></p>  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=radical" alt="akramcodez" /></p>  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&theme=radical" alt="akramcodez" /></p>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=radical" 
+       alt="akramcodez" 
+       style="width: 48%; height: auto; margin-right: 2%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=radical" 
+       alt="akramcodez" 
+       style="width: 48%; height: auto; margin-left: 2%;" />
+</div>
+</p> 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&theme=radical" alt="akramcodez" /></p>
 
 
 
