@@ -77,5 +77,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=radical" alt="akramcodez" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&theme=radical" alt="akramcodez" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&theme=radical" alt="akramcodez" /></p>
 
