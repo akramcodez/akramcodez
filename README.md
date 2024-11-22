@@ -6,7 +6,7 @@
     <td align="left" style="border: none;">
       <p>
         🔭 I’m currently working on <a href="https://github.com/akramcodez/Anigram">Anigram</a><br>
-        🌱 I’m currently learning <strong>Back-end development</strong><br>
+        🌱 I’m currently learning <strong>Back-end development</strong><br> 
         📫 How to reach me: <strong>skcodewizard786@gmail.com</strong>
       </p>
     </td>
