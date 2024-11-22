@@ -73,13 +73,13 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=radical" alt="akramcodez" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;" />
     </td>
     <td style="text-align: center; width: 50%; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&locale=en" alt="akramcodez" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=radical" alt="akramcodez" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&" alt="akramcodez" style="max-width: 100%; border-radius: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&theme=radical" alt="akramcodez" style="max-width: 100%; border-radius: 10px;" />
 </p>
 
 <h3>📊 GitHub Stats</h3>
@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&theme=radical" alt="GitHub Streak Stats" />
+  <img src="" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
