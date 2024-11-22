@@ -67,12 +67,15 @@
 
 <h3 align="center">My GitHub Stats:</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akramcodez&show_icons=true&locale=en&layout=compact" alt="akramcodez" />
-</p>
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&locale=en" alt="akramcodez" />
-</p>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akramcodez&show_icons=true&locale=en&layout=compact" alt="akramcodez" style="max-width: 100%; border-radius: 10px;" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&locale=en" alt="akramcodez" style="max-width: 100%; border-radius: 10px;" />
+  </div>
+</div>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&" alt="akramcodez" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&" alt="akramcodez" style="max-width: 100%; border-radius: 10px;" />
 </p>
