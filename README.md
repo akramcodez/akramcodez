@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SK Akram</h1>  
-<h3 align="center">Full Stack Developer in Progress 💻</h3>  
+<h3 align="center">Full Stack Developer in Progress 💻 <img src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="profile views" /></h3>  
 
 <table align="center" style="border-collapse: collapse;">
   <tr>
@@ -8,8 +8,6 @@
         🔭 I’m currently working on <a href="https://github.com/akramcodez/Anigram">Anigram</a><br>
         🌱 I’m currently learning <strong>Back-end development</strong><br> 
         📫 How to reach me: <strong>skcodewizard786@gmail.com</strong><br>
-        👀 Profile Views: 
-        <img src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="profile views" />
       </p>
     </td>
     <td align="center" style="border: none;">
