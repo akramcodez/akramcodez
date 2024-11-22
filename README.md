@@ -73,10 +73,6 @@
 
 <h3 align="center">My GitHub Stats:</h3>
 
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&theme=radical" alt="akramcodez" style="max-width: 100%; border-radius: 10px;" />
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=radical" alt="akramcodez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=radical" alt="akramcodez" /></p>
