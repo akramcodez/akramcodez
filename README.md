@@ -6,7 +6,6 @@
     <td align="left" style="border: none;">
       <p>
         <img style="margin-top: 10px" src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="profile views" /><br>
-        <img src="https://img.shields.io/github/followers/akramcodez?label=Followers&style=social" alt="GitHub Followers" /><br>
         <img src="https://img.shields.io/github/stars/akramcodez?label=GitHub%20Stars&style=social" alt="GitHub Stars" /><br>
         🔭 I’m currently working on <a href="https://github.com/akramcodez/Anigram">Anigram</a><br>
         🌱 I’m currently learning <strong>Back-end development</strong><br> 
