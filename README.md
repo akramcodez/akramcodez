@@ -27,9 +27,20 @@
     <td align="center" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><br>C
     </td>
-     <td align="center" style="border: none;">
-      <img src="https://lottiefiles.com/free-animation/html-5-Ls4LKvYz6e" alt="html5" width="40" height="40"/><br>HTML
-    </td>
+   <td align="center" style="border: none;">
+  <div id="html5-animation" style="width: 40px; height: 40px; margin: auto;"></div>
+  <br>HTML
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.10.2/lottie.min.js"></script>
+  <script>
+    lottie.loadAnimation({
+      container: document.getElementById('html5-animation'), // Div container
+      renderer: 'svg', 
+      loop: true,
+      autoplay: true,
+      path: 'path-to-your-html5-animation.json' // Update with your Lottie JSON path
+    });
+  </script>
+</td>
      <td align="center" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><br>CSS
     </td>
