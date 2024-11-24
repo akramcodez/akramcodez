@@ -86,12 +86,3 @@
 </div>
 </p> 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akramcodez&theme=radical" alt="akramcodez" /></p>
-
-========= fix  <img align="right" src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" alt="Developer Working" />
-  <p align="left">
-    <img style="margin-top: 10px" src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="profile views" /><br>
-    <img src="https://img.shields.io/github/stars/akramcodez?label=GitHub%20Stars&style=social" alt="GitHub Stars" /><br>
-    🔭 I’m currently working on <a href="https://github.com/akramcodez/Anigram">Anigram</a><br>
-    🌱 I’m currently learning <strong>Back-end development</strong><br> 
-    📫 How to reach me: <strong>skcodewizard786@gmail.com</strong><br>
-  </p>
