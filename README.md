@@ -10,9 +10,7 @@
     📫 How to reach me: <strong>skcodewizard786@gmail.com</strong><br>
   </p>
 
-<h3 align="center">Languages and Tools:</h3>
-
-<table align="center" style="border-collapse: collapse;">
+<table align="center" style="border-collapse: collapse; margin-top: 50">
   <tr>
     <td align="center" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><br>C
