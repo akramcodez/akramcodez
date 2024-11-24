@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SK Akram</h1>  
 <h3 align="center">Full Stack Developer in Progress 💻 </h3>  
 
-  <img align="right" src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" alt="Developer Working" />
+<img align="right" src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" alt="Developer Working" width="400" />
   <p align="left">
     <img style="margin-top: 10px" src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="profile views" /><br>
     <img src="https://img.shields.io/github/stars/akramcodez?label=GitHub%20Stars&style=social" alt="GitHub Stars" /><br>
