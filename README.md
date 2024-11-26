@@ -2,15 +2,24 @@
 <h3 align="center">Full Stack Developer in Progress 💻 </h3>  
 
 
-<p>
-  <img style="margin-top: 10px" src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="profile views" /><br>
-  <img src="https://img.shields.io/github/stars/akramcodez?label=GitHub%20Stars&style=social" alt="GitHub Stars" /><br>
-  🔭 I’m currently working on <a href="https://github.com/akramcodez/Anigram">Anigram</a><br>
-  🌱 I’m currently learning <strong>Back-end development</strong><br> 
-  📫 How to reach me: <strong>skcodewizard786@gmail.com</strong><br>
-</p>
-    
-<img src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" alt="Developer Working" width="400" />
+<div align="center" style="display: flex; flex-direction: column; align-items: center; text-align: left; gap: 20px;">
+
+  <div style="flex: 1;">
+    <p>
+      <img src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="Profile Views" /><br>
+      <img src="https://img.shields.io/github/stars/akramcodez?label=GitHub%20Stars&style=social" alt="GitHub Stars" /><br>
+      🔭 I’m currently working on <a href="https://github.com/akramcodez/Anigram">Anigram</a><br>
+      🌱 I’m currently learning <strong>Back-end development</strong><br> 
+      📫 How to reach me: <strong>skcodewizard786@gmail.com</strong><br>
+    </p>
+  </div>
+
+  <div style="flex: 1; margin-top: 20px;">
+    <img src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" alt="Developer Working" style="max-width: 100%; height: auto;" />
+  </div>
+
+</div>
+
 
 
 ---
