@@ -15,7 +15,7 @@
   </div>
 
   <div style="flex: 1; margin-top: 20px;">
-    <img src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" alt="Developer Working" style="max-width: 80%; height: 100px;" />
+    <img src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" alt="Developer Working" style="max-width: 80%; height: 300px;" />
   </div>
 
 </div>
