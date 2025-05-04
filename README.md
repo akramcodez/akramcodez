@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SK Akram</h1>  
-<h3 align="center">Full Stack Developer in Progress 💻 </h3>  
+<h3 align="center">Full Stack Developer💻 </h3>  
 
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; text-align: left; gap: 20px;">
