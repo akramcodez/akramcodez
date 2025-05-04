@@ -2,9 +2,9 @@
 <h3 align="center">Full Stack Developer 💻 </h3>  
 
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; text-align: left; gap: 20px; max-width: 800px; margin: 0 auto;">
+<div style="max-width: 800px; margin: 0 auto; overflow: hidden;">
   <!-- Left Column: Text Content -->
-  <div style="flex: 1;">
+  <div style="float: left; width: 50%; padding: 10px; text-align: left;">
     <p>
       <img src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="Profile Views" /><br>
       📘 I’m currently learning <strong>DSA</strong><br>
@@ -12,9 +12,8 @@
       📬 How to reach me: <strong>skcodewizard786@gmail.com</strong><br>
     </p>
   </div>
-
   <!-- Right Column: GIF -->
-  <div style="flex: 1; display: flex; justify-content: center;">
+  <div style="float: right; width: 50%; padding: 10px; text-align: center;">
     <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Coding GIF" style="max-width: 100%; height: auto; max-height: 200px;" />
   </div>
 </div>
