@@ -9,7 +9,7 @@
     📬 How to reach me: <strong>skcodewizard786@gmail.com</strong><br>
   </p>
 
-  <img src="https://github.com/user-attachments/assets/bb1720bf-7416-489f-af64-8862c5222ca7" alt="Coding GIF" style="height: 200px; width: auto;" />
+  <img src="https://github.com/user-attachments/assets/bb1720bf-7416-489f-af64-8862c5222ca7" alt="HELLO!!!" style="height: 200px; width: auto;" />
 </div>
 
 
@@ -38,3 +38,20 @@ const skillsAndLanguages = {
 </div>
 
 ---
+
+<div style="display: flex; align-items: center; height: 100vh; padding-left: 40px;">
+  <!-- Left Image (Larger) -->
+  <img src="https://github.com/user-attachments/assets/84360b54-3d5d-486f-a361-22f72bdf2e31" 
+       alt="SEE YOU SOON..." 
+       style="width: 300px; height: auto; margin-right: 20px;" />
+
+  <!-- Goodbye Text (Smaller, using <p>) -->
+  <p style="font-size: 1.2rem; color: #444; margin: 0;">
+    👋 Goodbye, see you soon...
+  </p>
+</div>
+
+
+
+
+
