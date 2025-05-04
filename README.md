@@ -20,6 +20,8 @@
 
 ## Skills and Technologies
 
+```bash
+
 const skillsAndLanguages = [
   {
     name: "C",
@@ -76,7 +78,7 @@ const skillsAndLanguages = [
   {
     name: "Java",
     icon: "https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f746563687s
-
+```
 ---
 
 ## GitHub Contributions 
