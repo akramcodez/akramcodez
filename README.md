@@ -34,7 +34,7 @@ const skillsAndLanguages = {
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" style="max-width: 45%; width: 400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" style="max-width: 45%; width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" style="max-width: 35%; width: 400px;" />
 </div>
 
 ---
