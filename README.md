@@ -72,15 +72,15 @@
 
 ---
 
-<h3 align="center">My GitHub Stats:</h3>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=radical" 
-       alt="Top Languages" 
-       style="width: 45%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=radical" 
-       alt="GitHub Stats" 
-       style="width: 50%; margin-left: 10px;"
-    align="right"
-    />
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="35%" />
 </div>
-</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnbVsW0jX4v6U/giphy.gif" width="100" alt="Stats GIF" />
+</div>
+
+---
