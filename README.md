@@ -9,7 +9,7 @@
     📬 How to reach me: <strong>skcodewizard786@gmail.com</strong><br>
   </p>
 
-  <img src="https://github.com/user-attachments/assets/4e80c987-210a-4662-9b0b-17ed9a14468d" alt="Coding GIF" style="height: 200px; width: auto;" />
+  <img src="https://github.com/user-attachments/assets/bb1720bf-7416-489f-af64-8862c5222ca7" alt="Coding GIF" style="height: 200px; width: auto;" />
 </div>
 
 
