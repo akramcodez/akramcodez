@@ -72,7 +72,7 @@
 
 ---
 
-## GitHub Contributions
+<h1>GitHub Contributions: </h1>  
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" style="max-width: 45%; width: 400px;" />
