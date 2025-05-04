@@ -23,7 +23,8 @@ const skillsAndLanguages = {
     coreTechnologies: ["HTML", "CSS", "JavaScript", "TypeScript"],
     frameworksAndLibraries: ["React", "Redux", "Bootstrap", "TailwindCSS", "MaterialUI"]
   },
-  backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
+  backend: ["Node.js", "Express.js"],
+  dataBases: ["MongoDB", "MySQL"],
   versionControl: ["Git", "GitHub"],
   programmingLanguages: ["C", "Java"]
 };
