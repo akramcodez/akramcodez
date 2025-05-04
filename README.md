@@ -2,20 +2,14 @@
 <h3 align="center">Full Stack Developer 💻 </h3>  
 
 
-<div style="max-width: 800px; margin: 0 auto; overflow: hidden;">
-  <!-- Left Column: Text Content -->
-  <div style="float: left; width: 50%; padding: 10px; text-align: left;">
-    <p>
-      <img src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="Profile Views" /><br>
-      📘 I’m currently learning <strong>DSA</strong><br>
-      🛠️ I’m currently working on <a href="https://github.com/akramcodez/MyTube_Home">MyTube-Home</a><br>
-      📬 How to reach me: <strong>skcodewizard786@gmail.com</strong><br>
-    </p>
-  </div>
-  <!-- Right Column: GIF -->
-  <div style="float: right; width: 50%; padding: 10px; text-align: center;">
-    <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Coding GIF" style="max-width: 100%; height: auto; max-height: 200px;" />
-  </div>
+<div style="max-width: 800px; margin: 0 auto; text-align: center;">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="Profile Views" /><br>
+    📘 I’m currently learning <strong>DSA</strong><br>
+    🛠️ I’m currently working on <a href="https://github.com/akramcodez/MyTube_Home">MyTube-Home</a><br>
+    📬 How to reach me: <strong>skcodewizard786@gmail.com</strong><br>
+  </p>
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Coding GIF" style="max-width: 100%; height: auto; max-height: 200px;" />
 </div>
 
 ---
