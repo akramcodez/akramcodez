@@ -9,7 +9,7 @@
     🛠️ I’m currently working on <a href="https://github.com/akramcodez/MyTube_Home">MyTube-Home</a><br>
     📬 How to reach me: <strong>skcodewizard786@gmail.com</strong><br>
   </p>
-  <img src='https://tenor.com/view/coding-gif-18657810" alt="Coding GIF" style="max-width: 100%; height: auto; max-height: 200px;" />
+  <img src="https://tenor.com/view/coding-gif-18657810" alt="Coding GIF" style="max-width: 100%; height: auto; max-height: 200px;" />
 </div>
 
 
