@@ -1,6 +1,7 @@
 <div align="center">
   <h1>SK Akram</h1>
   <h2>Full Stack Developer</h2>
+  <img src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=gray" alt="Profile Views" style="margin-top: 10px;" />
 </div>
 
 ---
