@@ -20,61 +20,62 @@
 
 ## Skills and Technologies
 
-I am proficient in a wide range of programming languages, frameworks, and tools, enabling me to develop robust full-stack applications. Below is a comprehensive list of my technical skills:
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=c" width="40" alt="C" /><br>C
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" /><br>HTML
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" /><br>CSS
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="40" alt="Bootstrap" /><br>Bootstrap
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind CSS" /><br>Tailwind CSS
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" /><br>JavaScript
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=typescript" width="40" alt="TypeScript" /><br>TypeScript
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /><br>React
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux.js" /><br>Redux.js
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=materialui" width="40" alt="Material-UI" /><br>Material-UI
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" /><br>Node.js
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express.js" /><br>Express.js
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" /><br>MongoDB
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" /><br>MySQL
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java" /><br>Java
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /><br>Git
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /><br>GitHub
-  </div>
-</div>
+const skillsAndLanguages = [
+  {
+    name: "C",
+    icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+  },
+  {
+    name: "HTML",
+    icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+  },
+  {
+    name: "CSS",
+    icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+  },
+  {
+    name: "Bootstrap",
+    icon: "https://camo.githubusercontent.com/6b1bf7b8b619209db3380bb7d254b3aa8eacd86d708ee47c4efd90c3e770c190/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170"
+  },
+  {
+    name: "JavaScript",
+    icon: "https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"
+  },
+  {
+    name: "Node.js",
+    icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+  },
+  {
+    name: "GitHub",
+    icon: "https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"
+  },
+  {
+    name: "Git",
+    icon: "https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+  },
+  {
+    name: "Express.js",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+  },
+  {
+    name: "MySQL",
+    icon: "https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667"
+  },
+  {
+    name: "MongoDB",
+    icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+  },
+  {
+    name: "TypeScript",
+    icon: "https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"
+  },
+  {
+    name: "React",
+    icon: "https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"
+  },
+  {
+    name: "Java",
+    icon: "https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f746563687s
 
 ---
 
