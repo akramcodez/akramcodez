@@ -5,13 +5,14 @@
 <div align="center" style="display: flex; flex-direction: column; align-items: center; text-align: left; gap: 20px;">
 
   <div style="flex: 1;">
-    <p>
-      <img src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="Profile Views" /><br>
-       I’m currently learning <strong>DSA</strong><br> 
-       I’m currently working on <a href="https://github.com/akramcodez/MyTube_Home">MyTube-Home</a><br>
-       How to reach me: <strong>skcodewizard786@gmail.com</strong><br>
-    </p>
-  </div>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="Profile Views" /><br>
+    📘 I’m currently learning <strong>DSA</strong><br> 
+    🛠️ I’m currently working on <a href="https://github.com/akramcodez/MyTube_Home">MyTube-Home</a><br>
+    📬 How to reach me: <strong>skcodewizard786@gmail.com</strong><br>
+  </p>
+</div>
+
 
 </div>
 
