@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer💻 </h3>  
 
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; text-align: left; gap: 20px;">
+<div style="display: flex; flex-direction: column; align-items: center; text-align: left; gap: 20px;">
 
   <div style="flex: 1;">
   <p>
