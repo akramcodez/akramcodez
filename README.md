@@ -72,15 +72,11 @@
 
 ---
 
-## GitHub Stats
+## GitHub Contributions
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="35%" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnbVsW0jX4v6U/giphy.gif" width="100" alt="Stats GIF" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" style="max-width: 45%; width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" style="max-width: 35%; width: 300px;" />
 </div>
 
 ---
