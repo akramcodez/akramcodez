@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm SK Akram</h1>  
-<h3 align="center">Full Stack Developer💻 </h3>  
+<h3 align="center">Full Stack Developer 💻 </h3>  
 
 
-<div style="display: flex; flex-direction: column; align-items: center; text-align: left; gap: 20px;">
-
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; text-align: left; gap: 20px; max-width: 800px; margin: 0 auto;">
+  <!-- Left Column: Text Content -->
   <div style="flex: 1;">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="Profile Views" /><br>
-    📘 I’m currently learning <strong>DSA</strong><br> 
-    🛠️ I’m currently working on <a href="https://github.com/akramcodez/MyTube_Home">MyTube-Home</a><br>
-    📬 How to reach me: <strong>skcodewizard786@gmail.com</strong><br>
-  </p>
-</div>
+    <p>
+      <img src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="Profile Views" /><br>
+      📘 I’m currently learning <strong>DSA</strong><br>
+      🛠️ I’m currently working on <a href="https://github.com/akramcodez/MyTube_Home">MyTube-Home</a><br>
+      📬 How to reach me: <strong>skcodewizard786@gmail.com</strong><br>
+    </p>
+  </div>
 
-
+  <!-- Right Column: GIF -->
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Coding GIF" style="max-width: 100%; height: auto; max-height: 200px;" />
+  </div>
 </div>
 
 ---
