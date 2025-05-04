@@ -21,30 +21,14 @@
 ## Skills and Technologies
 
 ```bash
-
 const skillsAndLanguages = {
-  Frontend: [
-    { name: "HTML" },
-    { name: "CSS" },
-    { name: "Bootstrap" },
-    { name: "JavaScript" },
-    { name: "React" },
-    { name: "TypeScript" }
-  ],
-  Backend: [
-    { name: "Node.js" },
-    { name: "Express.js" },
-    { name: "MongoDB" },
-    { name: "MySQL" }
-  ],
-  VersionControl: [
-    { name: "Git" },
-    { name: "GitHub" }
-  ],
-  ProgrammingLanguages: [
-    { name: "C" },
-    { name: "Java" }
-  ]
+  frontend: {
+    coreTechnologies: ["HTML", "CSS", "JavaScript", "TypeScript"],
+    frameworksAndLibraries: ["React", "Redux", "Bootstrap", "TailwindCSS", "MaterialUI"]
+  },
+  backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
+  versionControl: ["Git", "GitHub"],
+  programmingLanguages: ["C", "Java"]
 };
 ```
 ---
