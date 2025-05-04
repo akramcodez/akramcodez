@@ -33,8 +33,9 @@ const skillsAndLanguages = {
 ## GitHub Contributions 
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" style="max-width: 45%; width: 400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" style="max-width: 35%; width: 350px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" style="width: 400px; max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" style="width: 400px; max-width: 100%;" />
 </div>
+
 
 ---
