@@ -39,16 +39,16 @@ const skillsAndLanguages = {
 
 ---
 
-<div style="display: flex; align-items: center; height: 100vh; padding-left: 40px;">
-  <!-- Left Image (Larger) -->
-  <img src="https://github.com/user-attachments/assets/84360b54-3d5d-486f-a361-22f72bdf2e31" 
+<div style="display: flex; align-items: center; height: 100vh; padding-left: 40px; gap: 0;">
+  
+  <img src="https://github.com/user-attachments/assets/728b1d21-bc88-412e-8b75-62df36b18500" 
        alt="SEE YOU SOON..." 
-       style="width: 300px; height: auto; margin-right: 20px;" />
+       style="width: 450px; height: auto;" />
 
-  <!-- Goodbye Text (Smaller, using <p>) -->
-  <p style="font-size: 1.2rem; color: #444; margin: 0;">
+  <p style="font-size: 450px; color: #444; margin: 0;">
     👋 Goodbye, see you soon...
   </p>
+  
 </div>
 
 
