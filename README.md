@@ -4,9 +4,9 @@
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
   <p>
     <img src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="Profile Views" /><br>
-    📘 I’m currently learning <strong>DSA</strong><br>
-    🛠️ I’m currently working on <a href="https://github.com/akramcodez/MyTube_Home">MyTube-Home</a><br>
-    📬 How to reach me: <strong>skcodewizard786@gmail.com</strong><br>
+    🛠️ Building: <a href="https://github.com/akramcodez/MyTube_Home">MyTube-Home</a><br>
+    📘 DSA every day, even when my brain says no :)<br>
+    📬 Always around — drop a mail: <strong>skcodewizard786@gmail.com</strong><br>
   </p>
 
   <img src="https://github.com/user-attachments/assets/bb1720bf-7416-489f-af64-8862c5222ca7" alt="HELLO!!!" style="height: 200px; width: auto;" />
