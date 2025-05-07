@@ -4,7 +4,7 @@
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
   <p>
     <img src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="Profile Views" /><br>
-    🛠️ Building: <a href="https://github.com/akramcodez/MyTube_Home">MyTube-Home</a><br>
+    🛠️ Building: <a href="https://github.com/akramcodez/ZTrade">ZTrade</a><br>
     📘 DSA every day, even when my brain says no :)<br>
     📬 Always around — drop a mail: <strong>skcodewizard786@gmail.com</strong><br>
   </p>
