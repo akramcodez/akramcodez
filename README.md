@@ -3,7 +3,6 @@
 
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=akramcodez&style=flat-square&color=blue" alt="Profile Views" /><br>
     🛠️ Building: <a href="https://github.com/akramcodez/ZTrade">ZTrade</a><br>
     📘 DSA every day, even when my brain says no :)<br>
     📬 Always around — drop a mail: <strong>skcodewizard786@gmail.com</strong><br>
@@ -29,15 +28,6 @@ const skillsAndLanguages = {
   programmingLanguages: ["C", "Java"]
 };
 ```
----
-
-## GitHub Contributions 
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=akramcodez&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" style="max-width: 45%; width: 400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramcodez&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" style="max-width: 30%; width: 350px;" />
-</div>
-
 ---
 
 <div style="display: flex; align-items: center; height: 100vh; padding-left: 40px; gap: 0;">
