@@ -19,14 +19,21 @@
 ```bash
 const skillsAndLanguages = {
   frontend: {
-    coreTechnologies: ["HTML", "CSS", "JavaScript", "TypeScript"],
-    frameworksAndLibraries: ["React", "Redux", "Bootstrap", "TailwindCSS", "MaterialUI"]
+    coreTechnologies: ["HTML", "CSS"],
+    frameworksAndLibraries: [
+      "React",
+      "Redux",
+      "Bootstrap",
+      "TailwindCSS",
+      "Material UI"
+    ]
   },
   backend: ["Node.js", "Express.js"],
-  dataBases: ["MongoDB", "MySQL"],
+  databases: ["MongoDB", "MySQL"],
   versionControl: ["Git", "GitHub"],
-  programmingLanguages: ["C", "Java"]
+  programmingLanguages: ["C", "Java", "JavaScript", "TypeScript"]
 };
+
 ```
 ---
 
