@@ -31,7 +31,7 @@ const skillsAndLanguages = {
   backend: ["Node.js", "Express.js"],
   databases: ["MongoDB", "MySQL"],
   versionControl: ["Git", "GitHub"],
-  programmingLanguages: ["C", "Java", "JavaScript", "TypeScript"]
+  programmingLanguages: ["C", "Java", "JavaScript", "TypeScript", "Python"]
 };
 
 ```
