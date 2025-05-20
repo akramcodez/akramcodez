@@ -25,7 +25,8 @@ const skillsAndLanguages = {
       "Redux",
       "Bootstrap",
       "TailwindCSS",
-      "Material UI"
+      "Material UI",
+      "Next.js"
     ]
   },
   backend: ["Node.js", "Express.js"],
@@ -33,7 +34,6 @@ const skillsAndLanguages = {
   versionControl: ["Git", "GitHub"],
   programmingLanguages: ["C", "Java", "JavaScript", "TypeScript", "Python"]
 };
-
 ```
 ---
 
