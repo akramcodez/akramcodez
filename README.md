@@ -3,7 +3,7 @@
 
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
   <p>
-    🛠️ Building: <a href="https://github.com/akramcodez/ZTrade">ZTrade</a><br>
+    🛠️ Building: <a href="https://github.com/akramcodez/Clooq">Clooq</a><br>
     📘 DSA every day, even when my brain says no :)<br>
     📬 Always around — drop a mail: <strong>skcodewizard786@gmail.com</strong> <br>
   </p>
