@@ -5,7 +5,7 @@
   <p>
     🛠️ Building: <a href="https://github.com/akramcodez/ZTrade">ZTrade</a><br>
     📘 DSA every day, even when my brain says no :)<br>
-    📬 Always around — drop a mail: <strong>skcodewizard786@gmail.com</strong><br>
+    📬 Always around — drop a mail: <strong>skcodewizard786@gmail.com</strong> <br>
   </p>
 
   <img src="https://github.com/user-attachments/assets/bb1720bf-7416-489f-af64-8862c5222ca7" alt="HELLO!!!" style="height: 200px; width: auto;" />
