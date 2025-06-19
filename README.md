@@ -41,7 +41,7 @@ const skillsAndLanguages = {
   
   <img src="https://github.com/user-attachments/assets/728b1d21-bc88-412e-8b75-62df36b18500" 
        alt="SEE YOU SOON..." 
-       style="width: 450px; height: auto;" />
+       style="width: 250px; height: auto;" />
 
   <p style="font-size: 450px; color: #444; margin: 0;">
     👋 Goodbye, see you soon...
