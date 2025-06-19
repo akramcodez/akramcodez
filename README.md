@@ -8,7 +8,7 @@
     📬 Always around — drop a mail: <strong>skcodewizard786@gmail.com</strong> <br>
   </p>
 
-  <img src="https://github.com/user-attachments/assets/bb1720bf-7416-489f-af64-8862c5222ca7" alt="HELLO!!!" style="height: 200px; width: auto;" />
+  <img src="https://github.com/user-attachments/assets/bb1720bf-7416-489f-af64-8862c5222ca7" alt="HELLO!!!" style="height: 100px; width: auto;" />
 </div>
 
 
