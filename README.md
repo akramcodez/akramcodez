@@ -37,17 +37,10 @@ const skillsAndLanguages = {
 ```
 ---
 
-<div style="display: flex; align-items: center; height: 100vh; padding-left: 40px; gap: 0;">
-  
-  <img src="https://github.com/user-attachments/assets/728b1d21-bc88-412e-8b75-62df36b18500" 
-       alt="SEE YOU SOON..." 
-       style="height: 120px; width: auto;;" />
-
   <p style="font-size: 450px; color: #444; margin: 0;">
     👋 Goodbye, see you soon...
   </p>
-  
-</div>
+
 
 
 
