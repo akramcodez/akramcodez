@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm SK Akram</h1>  
-
-
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
   <p>
     Building: <a href="https://github.com/akramcodez/pivaAi">pivaAi</a><br>
