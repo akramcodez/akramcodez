@@ -3,9 +3,9 @@
 
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
   <p>
-    🛠️ Building: <a href="https://github.com/akramcodez/pivaAi">pivaAi</a><br>
-    📘 DSA every day, even when my brain says no :)<br>
-    📬 Always around — drop a mail: <strong>skcodewizard786@gmail.com</strong> <br>
+    Building: <a href="https://github.com/akramcodez/pivaAi">pivaAi</a><br>
+    Working on my DSA skills<br>
+    Reach out: <strong>skcodewizard786@gmail.com</strong> <br>
   </p>
 
   <img src="https://github.com/user-attachments/assets/bb1720bf-7416-489f-af64-8862c5222ca7" alt="HELLO!!!" style="height: 150px; width: auto;" />
@@ -38,7 +38,7 @@ const skillsAndLanguages = {
 ---
 
   <p style="font-size: 450px; color: #444; margin: 0;">
-    👋 Goodbye, see you soon...
+    Goodbye, see you soon...
   </p>
 
 
