@@ -15,7 +15,7 @@ UI Frameworks: Bootstrap, TailwindCSS, Material UI
 Backend: Node.js, Express.js
 Databases: MongoDB, MySQL
 Version Control: Git, GitHub
-Programming Languages: C, Java, JavaScript, TypeScript, Python
+Languages: C, Java, JavaScript, TypeScript, Python
 ```
 
 <p style="font-size: 450px; color: #444; margin: 0;">
