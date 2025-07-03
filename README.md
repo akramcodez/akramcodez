@@ -9,16 +9,18 @@
 ### Skills and Technologies
 
 ```bash
-Frontend: HTML, CSS, JavaScript, React, Redux, Next.js, Bootstrap, TailwindCSS, Material UI
+Frontend: HTML, CSS
+Frameworks/Libraries: React, Redux, Next.js
+UI Frameworks: Bootstrap, TailwindCSS, Material UI
 Backend: Node.js, Express.js
 Databases: MongoDB, MySQL
 Version Control: Git, GitHub
 Programming Languages: C, Java, JavaScript, TypeScript, Python
 ```
 
-  <p style="font-size: 450px; color: #444; margin: 0;">
-    Goodbye, see you soon...
-  </p>
+<p style="font-size: 450px; color: #444; margin: 0;">
+  Goodbye, see you soon...
+</p>
 
 
 
