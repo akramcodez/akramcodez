@@ -13,7 +13,7 @@ Frontend: HTML, CSS
 Frameworks/Libraries: React, Redux, Next.js
 UI Frameworks: Bootstrap, TailwindCSS, Material UI
 Backend: Node.js, Express.js
-Databases: MongoDB, MySQL
+Databases: MongoDB, MySQL, Prisma
 Version Control: Git, GitHub
 Languages: C, Java, JavaScript, TypeScript, Python
 ```
