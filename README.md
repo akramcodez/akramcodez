@@ -19,11 +19,5 @@ Languages: C, Java, JavaScript, TypeScript, Python
 ```
 
 <p style="font-size: 450px; color: #444; margin: 0;">
-  Goodbye, see you soon...
+ This is the very beginning...
 </p>
-
-
-
-
-
-
