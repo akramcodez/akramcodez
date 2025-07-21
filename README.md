@@ -2,7 +2,7 @@
   <p>
     Building: <a href="https://github.com/akramcodez/Piva" target="_blank" rel="noopener noreferrer">Piva</a><br>
     Working on me every day<br>
-    Reach me: <a href="mailto:skcodewizard786@gmail.com">skcodewizard786@gmail.com</a><br>
+    Hire me: <a href="mailto:skcodewizard786@gmail.com">skcodewizard786@gmail.com</a><br>
   </p>
 </div>
 
@@ -18,6 +18,6 @@ Version Control: Git, GitHub
 Languages: C, Java, JavaScript, TypeScript, Python
 ```
 
-<p style="font-size: 450px; color: #444; margin: 0;">
+<p style="font-size: 64px; color: #444; margin: 40px 0; text-align: center;">
  This is the very beginning...
 </p>
