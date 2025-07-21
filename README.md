@@ -1,8 +1,8 @@
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
   <p>
-    Building: <a href="https://github.com/akramcodez/Piva">Piva</a><br>
+    Building: <a href="https://github.com/akramcodez/Piva" target="_blank" rel="noopener noreferrer">Piva</a><br>
     Working on me every day<br>
-    Reach me: <strong>skcodewizard786@gmail.com</strong> <br>
+    Reach me: <a href="mailto:skcodewizard786@gmail.com">skcodewizard786@gmail.com</a><br>
   </p>
 </div>
 
