@@ -10,7 +10,7 @@
 
 ```bash
 Frontend: HTML, CSS
-Frameworks/Libraries: React, Redux, Next.js
+Frameworks/Libraries: React, Next.js
 UI Frameworks: Bootstrap, TailwindCSS, Material UI
 Backend: Node.js, Express.js
 Databases: MongoDB, MySQL, Prisma
