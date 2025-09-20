@@ -1,6 +1,6 @@
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
   <p>
-    Building: <a href="https://github.com/akramcodez/uni" target="_blank" rel="noopener noreferrer">Uni</a><br>
+    Building: <a href="https://github.com/akramcodez/universe" target="_blank" rel="noopener noreferrer">Universe</a><br>
     Working on me every day<br>
     Hire me: <a href="mailto:skcodewizard786@gmail.com">skcodewizard786@gmail.com</a><br>
   </p>
