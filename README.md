@@ -11,11 +11,11 @@
 ```bash
 Frontend: HTML, CSS
 Frameworks/Libraries: React, Next.js
-UI Frameworks: Bootstrap, TailwindCSS, Material UI
+UI Frameworks: TailwindCSS, Bootstrap
 Backend: Node.js, Express.js
 Databases: MongoDB, MySQL, Prisma
 Version Control: Git, GitHub
-Languages: C, Java, JavaScript, TypeScript, Python
+Languages: JavaScript, TypeScript, Cpp, Python, C, Java,
 ```
 
 <p style="font-size: 64px; color: #444; margin: 40px 0; text-align: center;">
