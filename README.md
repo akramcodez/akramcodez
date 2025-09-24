@@ -15,7 +15,7 @@ UI Frameworks: TailwindCSS, Bootstrap
 Backend: Node.js, Express.js
 Databases: MongoDB, MySQL, Prisma
 Version Control: Git, GitHub
-Languages: JavaScript, TypeScript, Cpp, Python, C, Java,
+Languages: TypeScript, Cpp, Python, C, Java,
 ```
 
 <p style="font-size: 64px; color: #444; margin: 40px 0; text-align: center;">
