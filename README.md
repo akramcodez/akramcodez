@@ -1,22 +1,11 @@
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
   <p>
-    Building: <a href="https://github.com/akramcodez/universe" target="_blank" rel="noopener noreferrer">Universe</a><br>
-    Working on me every day<br>
-    Hire me: <a href="mailto:skcodewizard786@gmail.com">skcodewizard786@gmail.com</a><br>
+    Best Project <a href="https://piva.akramcodez.tech" target="_blank" rel="noopener noreferrer">Piva</a><br>
+    Supercontributor Hacktoberfest '25<br>
+    T3 Stack + DB + Version Control + DSA in Cpp<br/>
+    Connect with me <a href="https://mail.google.com/mail/u/0/?fs=1&to=skakram00zz@gmail.com&tf=cm">skakram00zz@gmail.com</a><br>
   </p>
 </div>
-
-### Skills and Technologies
-
-```bash
-Frontend: HTML, CSS
-Frameworks/Libraries: React, Next.js
-UI Frameworks: TailwindCSS, Bootstrap
-Backend: Node.js, Express.js
-Databases: MongoDB, MySQL, Prisma
-Version Control: Git, GitHub
-Languages: TypeScript, Cpp, Python, C, Java,
-```
 
 <p style="font-size: 64px; color: #444; margin: 40px 0; text-align: center;">
  This is the very beginning...
