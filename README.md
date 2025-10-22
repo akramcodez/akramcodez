@@ -2,6 +2,7 @@
   <p>
     ➤ Best project <a href="https://piva.akramcodez.tech" target="_blank" rel="noopener noreferrer">Piva</a><br>
     ➤ Supercontributor Hacktoberfest '25<br>
+    ➤ Slightly active open source contributor<br>
     ➤ T3 Stack + DB + Version Control + DSA in Cpp<br/>
     ➤ Connect with me <a href="https://mail.google.com/mail/u/0/?fs=1&to=skakram00zz@gmail.com&tf=cm">skakram00zz@gmail.com</a><br>
   </p>
