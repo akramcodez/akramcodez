@@ -1,6 +1,6 @@
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
   <p>
-    ➤ Best project <a href="https://piva.akramcodez.tech" target="_blank" rel="noopener noreferrer">Piva</a><br>
+    ➤ Check out my <a href="https://akramcodez.tech">portfolio</a><br>
     ➤ Supercontributor Hacktoberfest '25<br>
     ➤ Slightly active open source contributor<br>
     ➤ T3 Stack + DB + Version Control + DSA in Cpp<br/>
