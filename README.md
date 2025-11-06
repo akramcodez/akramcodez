@@ -1,10 +1,11 @@
 <div style="max-width: 800px; margin: 0 auto; text-align: center;">
   <p>
-    ➤ Check out my <a href="https://akramcodez.tech">portfolio</a><br>
-    ➤ Supercontributor Hacktoberfest '25<br>
-    ➤ Slightly active open source contributor<br>
-    ➤ T3 Stack + DB + Version Control + DSA in Cpp<br/>
-    ➤ Connect with me <a href="https://mail.google.com/mail/u/0/?fs=1&to=skakram00zz@gmail.com&tf=cm">skakram00zz@gmail.com</a><br>
+    ➤ Check out my <a href="https://akramcodez.tech" target="_blank">portfolio</a><br>
+    ➤ Supercontributor - Hacktoberfest '25<br>
+    ➤ Active open-source contributor (15+ PRs merged)<br>
+    ➤ T3 Stack • Database • Version Control • DSA in C++<br>
+    ➤ Connect with me: 
+    <a href="mailto:skakram00zz@gmail.com">skakram00zz@gmail.com</a>
   </p>
 </div>
 
