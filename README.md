@@ -4,10 +4,10 @@
     ➤ Supercontributor - Hacktoberfest '25<br>
     ➤ Active open-source contributor (20+ PRs merged)<br>
     ➤ T3 Stack • Database • Version Control • DSA in C++<br>
-    ➤ Connect with me: 
-    <a href="mailto:skakram00zz@gmail.com">skakram00zz@gmail.com</a><br>
     ➤ Support my work and make me smile: 
-    <a href="https://buymeacoffee.com/akramcodez">here</a>
+    <a href="https://buymeacoffee.com/akramcodez">here</a><br>
+    ➤ Connect with me: 
+    <a href="mailto:skakram00zz@gmail.com">skakram00zz@gmail.com</a>
   </p>
 </div>
 
