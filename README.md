@@ -2,7 +2,7 @@
   <p>
     ➤ Check out my <a href="https://akramcodez.tech" target="_blank">portfolio</a><br>
     ➤ Supercontributor - <a href="https://x.com/akramcodez/status/1977945013561770327">Hacktoberfest'25</a><br>
-    ➤ Active open-source contributor (<a href="https://www.akramcodez.tech/#my-work">30+ PRs merged</a>)<br>
+    ➤ Active open-source contributor (<a href="https://www.akramcodez.tech/#my-work">35+ PRs merged</a>)<br>
     ➤ T3 Stack • Database • Version Control • DSA in C++<br>
     ➤ Support my work and make me smile: 
     <a href="https://buymeacoffee.com/akramcodez">here</a><br>
