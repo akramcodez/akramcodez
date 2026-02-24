@@ -9,7 +9,7 @@
     <a href="https://akramcodez.tech/blogs" target="_blank">Website</a> •
     <a href="https://x.com/akramcodez/articles" target="_blank">X Articles</a> •
     <a href="https://medium.com/@akramcodez" target="_blank">Medium</a><br>
-    ➤ Active open-source contributor <a href="http://akramcodez.tech/#my-work" target="_blank"> (48+ PRs merged) </a> <br>
+    ➤ Active open-source contributor <a href="http://akramcodez.tech/#my-work" target="_blank"> (45+ PRs merged) </a> <br>
     ➤ Notable OSS contributions: <br>
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://akramcodez.tech/?repo=activepieces#my-work" target="_blank">
       Activepieces (12 PRs)
