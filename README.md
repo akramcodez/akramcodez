@@ -15,7 +15,7 @@
       Activepieces (12 PRs)
     </a> •
      <a href="http://akramcodez.tech/?repo=openclaw#my-work" target="_blank">
-      OpenClaw (10 PRs)
+      OpenClaw (11 PRs)
     </a> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://akramcodez.tech/?repo=internetarchive#my-worke" target="_blank">
       Internet Archive (9 PRs)
