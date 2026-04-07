@@ -18,7 +18,7 @@
       OpenClaw (11 PRs)
     </a> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://akramcodez.tech/?repo=internetarchive#my-worke" target="_blank">
-      Internet Archive (9 PRs)
+      Internet Archive (10 PRs)
     </a> •
     <a href="https://akramcodez.tech/?repo=dodopayments#my-work" target="_blank">
       Dodo Payments (6 PRs)
