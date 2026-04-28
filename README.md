@@ -12,7 +12,7 @@
     ➤ Active open-source contributor <a href="http://akramcodez.tech/#my-work" target="_blank"> (45+ PRs merged) </a> <br>
     ➤ Notable OSS contributions: <br>
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://akramcodez.tech/?repo=internetarchive#my-worke" target="_blank">
-      Internet Archive (13 PRs)
+      Internet Archive (15 PRs)
     </a> •
      <a href="https://akramcodez.tech/?repo=activepieces#my-work" target="_blank">
       Activepieces (12 PRs)
