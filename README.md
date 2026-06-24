@@ -10,19 +10,6 @@
     <a href="https://x.com/akramcodez/articles" target="_blank">X Articles</a> •
     <a href="https://medium.com/@akramcodez" target="_blank">Medium</a><br>
     ➤ Active open-source contributor <a href="http://akramcodez.tech/#my-work" target="_blank"> (50+ PRs merged) </a> <br>
-    ➤ Notable OSS contributions: <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://akramcodez.tech/?repo=internetarchive#my-worke" target="_blank">
-      Internet Archive (15 PRs)
-    </a> •
-     <a href="https://akramcodez.tech/?repo=activepieces#my-work" target="_blank">
-      Activepieces (12 PRs)
-    </a> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://akramcodez.tech/?repo=openclaw#my-work" target="_blank">
-      OpenClaw (11 PRs)
-    </a> •
-    <a href="https://akramcodez.tech/?repo=dodopayments#my-work" target="_blank">
-      Dodo Payments (6 PRs)
-    </a><br>
     ➤ T3 Stack • Databases • Version Control • DSA in C++<br>
     ➤ Support my work and make me smile:
     <a href="https://buymeacoffee.com/akramcodez" target="_blank">Buy me a coffee</a><br>
