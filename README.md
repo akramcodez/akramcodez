@@ -1,4 +1,4 @@
-➤ Check out my <a href="https://akramcodez.tech" target="_blank">portfolio</a><br>
+➤ Check out my <a href="https://akramcodez.com" target="_blank">portfolio</a><br>
 ➤ Supercontributor -
     <a href="https://x.com/akramcodez/status/1977945013561770327" target="_blank">
       Hacktoberfest’25
