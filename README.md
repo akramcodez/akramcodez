@@ -12,7 +12,7 @@
 ➤ Active open-source contributor
     <a href="http://akramcodez.tech/#my-work" target="_blank">(60 PRs merged)</a><br>
 ➤ Featured contributions: <br/>
-<a href="https://www.akramcodez.tech/?repo=internetarchive#my-work" target="_blank">Internet Archive)</a> •
+<a href="https://www.akramcodez.tech/?repo=internetarchive#my-work" target="_blank">Internet Archive</a> •
 <a href="https://www.akramcodez.tech/?repo=activepieces#my-work" target="_blank">Activepieces</a> •
 <a href="https://www.akramcodez.tech/?repo=openclaw#my-work" target="_blank">OpenClaw</a><br>
 ➤ T3 Stack • Databases • Version Control • DSA in C++<br>
