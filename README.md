@@ -9,7 +9,7 @@
     <a href="https://akramcodez.tech/blogs" target="_blank">Website</a> •
     <a href="https://x.com/akramcodez/articles" target="_blank">X Articles</a> •
     <a href="https://medium.com/@akramcodez" target="_blank">Medium</a><br>
-    ➤ Active open-source contributor <a href="http://akramcodez.tech/#my-work" target="_blank"> (50+ PRs merged) </a> <br>
+    ➤ Active open-source contributor <a href="http://akramcodez.tech/#my-work" target="_blank"> (60 PRs merged) </a> <br>
     ➤ T3 Stack • Databases • Version Control • DSA in C++<br>
     ➤ Support my work and make me smile:
     <a href="https://buymeacoffee.com/akramcodez" target="_blank">Buy me a coffee</a><br>
