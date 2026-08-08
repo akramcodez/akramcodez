@@ -19,4 +19,4 @@
 ➤ Support my work and make me smile:
     <a href="https://buymeacoffee.com/akramcodez" target="_blank">Buy me a coffee</a><br>
 ➤ Connect with me:
-    <a href="mailto:skakram00zz@gmail.com">skakram00zz@gmail.com</a>
+    <a href="mailto:skakram@akramcodez.com">skakram@akramcodez.com</a>
