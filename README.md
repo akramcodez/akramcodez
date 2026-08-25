@@ -9,11 +9,11 @@ I build production software, developer tools, and AI-powered products, and I spe
 </p>
 
 <p>
-➤ <strong>Part-time Software Engineer at <a href="https://experts.afterquery.com" target="_blank">AfterQuery Experts</a></strong><br>
-➤ <strong>Maintainer at <a href="https://nanocollective.org" target="_blank">Nano Collective</a></strong><br>
-➤ <strong>60+ merged open-source PRs</strong> across projects including OpenClaw, Nano Collective, Activepieces, Internet Archive, and DodoPayments<br>
-➤ Worked across <strong>frontend, backend, AI tooling, developer tooling, and infrastructure</strong><br>
-➤ <strong>Tech Creator on X</strong> with 6K+ followers <br>
+* <strong>Part-time Software Engineer at <a href="https://experts.afterquery.com" target="_blank">AfterQuery Experts</a></strong><br>
+* <strong>Maintainer at <a href="https://nanocollective.org" target="_blank">Nano Collective</a></strong><br>
+* <strong>60+ merged open-source PRs</strong> across projects including OpenClaw, Nano Collective, Activepieces, Internet Archive, and DodoPayments<br>
+* Worked across <strong>frontend, backend, AI tooling, developer tooling, and infrastructure</strong><br>
+* <strong>Tech Creator on X</strong> with 6K+ followers <br>
 </p>
 
 <h3>What I Work With</h3>
@@ -33,14 +33,14 @@ Open source is a major part of what I do. I enjoy not only writing code, but als
 </p>
 
 <p>
-➤ <a href="https://akramcodez.com" target="_blank">Portfolio</a><br>
-➤ <a href="https://linkedin.com/in/akramcodez" target="_blank">LinkedIn</a><br>
-➤ <a href="https://akramcodez.tech/#my-work" target="_blank">Open-Source Contributions</a>
+* <a href="https://akramcodez.com" target="_blank">Portfolio</a><br>
+* <a href="https://linkedin.com/in/akramcodez" target="_blank">LinkedIn</a><br>
+* <a href="https://akramcodez.tech/#my-work" target="_blank">Open-Source Contributions</a>
 </p>
 
 <p>
-➤ Support my work and make me smile: <a href="https://buymeacoffee.com/akramcodez" target="_blank">Buy me a coffee ☕</a><br>
-➤ Connect with me: <a href="mailto:skakram@akramcodez.com">skakram@akramcodez.com</a>
+* Support my work and make me smile: <a href="https://buymeacoffee.com/akramcodez" target="_blank">Buy me a coffee</a><br>
+* Connect with me: <a href="mailto:skakram@akramcodez.com">skakram@akramcodez.com</a>
 </p>
 
 <p>
