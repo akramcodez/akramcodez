@@ -31,7 +31,7 @@ I build production software, developer tools, and AI-powered products, and I spe
 
 <p>
 * Support my work and make me smile: <a href="https://buymeacoffee.com/akramcodez" target="_blank">Buy me a coffee</a><br>
-* Connect with me: <a href="mailto:skakram@akramcodez.com">skakram@akramcodez.com</a>
+* Connect with me: <a href="mailto:skakram00zz@gmail.com">skakram00zz@gmail.com</a>
 </p>
 
 <p>
